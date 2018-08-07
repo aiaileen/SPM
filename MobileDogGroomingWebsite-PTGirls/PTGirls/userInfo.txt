@@ -1,0 +1,14 @@
+﻿0,Tom,29 Therry Street MEL VIC 3000,04127892341
+1,Angela Murray,126 Park Drive MEL VIC 3052,04127849341
+2,Stella Smith,11 Park Drive MEL VIC 3052,04127859341
+3,Johnny Walker,29 Morrah Street MEL VIC 3052,041276599932
+4,Ed,56 Royal Parade MEL VIC 3053,04126648888
+5,Sergi Rachmaninoff,567 Elizabeth Street MEL VIC 3000,04126648688
+6,Giselle,Unit 11 No.788 Elizabeth Street MEL VIC 3000,04126678884
+7,Andy,123 Ijido Str. Mel  VIC 3002,04128374441
+8,Ty,a real address,234327463274
+9,yuki,12345,03947q87
+10,nn,hh,555000
+11,abc,no.1 some street  MEL VIC 3052,04128879990
+12,frank,no.1 some street  MEL VIC 3052,0412850999
+13,Olef,no.1 some street MEL VIC 3052,0412665777

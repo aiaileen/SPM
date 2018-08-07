@@ -1,0 +1,21 @@
+﻿21,1,Troy,Irish Wolfhound,11/12/2008
+22,1,Becky,Maltese,4/8/2015
+23,1,Komming,Pekingese,1/3/2003
+24,2,Marshall,Great Pyrenees,18/7/2011
+25,3,Chinchin,Bichon,2/2/2014
+26,6,Handkerchief,Chow Chow,4/12/2012
+27,4,Stephan,Affenpinscher,6/10/2012
+28,4,Snoppy,Fox Terrier,11/1/2015
+29,5,Dan,Husky,2/11/2016
+30,7,Francais,Pomeranian,3/3/2017
+31,7,Harry,Harrier,14/12/2016
+32,7,Tairo,Shiba Inu,13/1/2015
+33,8,Hali,Pomeranian,22/12/2015
+34,9,water,peking,10/12/23
+35,10,?,lala,10/08/1999
+36,10,my love,you tell me,20/12/2009
+37,11,poppy,pomeanian,12/12/2016
+38,7,yoyo,german Shepard,11/11/2017
+39,12,poppy,Pomeranian,14/11/2017
+40,13,Poppy,pomeranian,11/11/2017
+41,1,ing,german Shepard,2/6/2017
